@@ -1,2 +1,2 @@
 def calc_pow2(num):
-    return None
+    return num**2
